@@ -1,0 +1,2 @@
+C:\Users\jadyk\Desktop\multithreaded_merge_sort\x64\Debug\multithreaded_merge_sort.exe
+D:\CPP Projects\Repositories\multithreaded_merge_sort\multithreaded_merge_sort\x64\Debug\multithreaded_merge_sort.exe
